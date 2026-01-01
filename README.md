@@ -1,7 +1,7 @@
 <h1 align="center">Blog</h1>
 
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=nodejs,vue,scss,ts" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nuxt,scss,ts" />
 </div> 
 
 &#xa0;
@@ -23,7 +23,7 @@ This is my personal blog you can download it and see how it works. Download [mas
 **Front-end:**
 * `cd client`
 * `npm i`
-* `npm run serve`
+* `npm run dev`
 
 ## :sparkles: Features ##
 :heavy_minus_sign: MongoDB \
@@ -32,8 +32,8 @@ This is my personal blog you can download it and see how it works. Download [mas
 :heavy_minus_sign: Filters
 
 ## :memo: Info for front-end
-* **Starting in:** localhost:8080
-* **Admin panel:** [localhost:8080/#/login](localhost:8080/#/login) (admin:admin)
+* **Starting in:** localhost:3000
+* **Admin panel:** [localhost:3000/login](localhost:3000/login) (admin:admin)
 
 ## :memo: Info for back-end:
 * **Starting in:** localhost:5000

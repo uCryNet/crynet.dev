@@ -1,6 +1,12 @@
 # Project exclude paths
-/server/node_modules/
-/client/node_modules/
-/.idea/
-/server/.env/
-/client/.env/
+server/node_modules
+client/node_modules
+.idea
+server/.env
+client/.env
+client/.nuxt
+client/.output
+client/.nitro
+client/.data
+client/dist
+client/.cache
