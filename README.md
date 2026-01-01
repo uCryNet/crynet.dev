@@ -7,7 +7,7 @@
 &#xa0;
 
 <div align="center"> 
-  <a href="https://crynet.name/#/">Demo</a>
+  <a href="https://crynet.dev">Demo</a>
 </div>
 
 
