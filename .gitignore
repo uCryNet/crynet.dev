@@ -2,5 +2,5 @@
 /server/node_modules/
 /client/node_modules/
 /.idea/
-/server/.env.example/
-/client/.env.example/
+/server/.env/
+/client/.env/
